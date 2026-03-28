@@ -1,0 +1,7 @@
+/*
+Static playlist data.
+
+Maps moods to audio tracks.
+
+Used by music feature.
+*/
